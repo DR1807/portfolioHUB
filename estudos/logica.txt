@@ -1,0 +1,1 @@
+Exercicios de lógica de programação realizados durante o curso.
