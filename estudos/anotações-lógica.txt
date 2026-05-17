@@ -1,0 +1,7 @@
+Exercícios e estudos de lógica de programação utilizando Python.
+
+Conteúdos estudados:
+- Variáveis
+- Entrada de dados
+- Estruturas condicionais
+- Laços de repetição
