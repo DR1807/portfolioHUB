@@ -1,0 +1,1 @@
+Site desenvolvido para auxiliar nos estudos de Banco de Dados I utilizando flashcards e questões objetivas.
