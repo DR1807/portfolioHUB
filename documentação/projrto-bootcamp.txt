@@ -1,0 +1,7 @@
+Projeto desenvolvido para o desafio intermediário de Git e GitHub.
+
+Objetivos:
+- Organização de repositório
+- Uso de versionamento
+- Publicação com GitHub Pages
+- Integração profissional
